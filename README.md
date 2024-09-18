@@ -1,14 +1,6 @@
 # Awesome Flux AI
 A curated list of awesome resources, tools, libraries, and applications related to Flux AI technology. This repository aims to be a comprehensive collection for developers, researchers, and enthusiasts interested in Flux AI.
 
-## Sponsor
-
-<p align="center">
-  <a target="_blank" href="https://302.ai/?ref=gptshunter&block=github">
-    <img alt="302.ai" src="https://i.v2ex.co/s98m8xKF.png">
-  </a>
-</p>
-
 ## About Flux AI
 
 [Flux AI](https://github.com/black-forest-labs/flux) is a suite of open-source text-to-image AI models developed by Black Forest Labs. The platform aims to advance state-of-the-art generative deep learning models for media, pushing the boundaries of creativity, efficiency, and diversity.
@@ -96,12 +88,3 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Fluxaigen | Cutting-edge Flux AI Image Generator](https://fluxaigen.com/)
 - [Flux Image Generator](https://fluximagegenerator.co/)
 - [Flux AI Image Generator](https://flux-ai.top/)
-
-## Contribution
-
-Contributions are welcome! If you'd like to add a resource to this list, please follow these steps:
-
-1. Fork this repository.
-2. Add your resource to the end of the list in the README.md file.
-3. Ensure your addition follows the existing format: `- [Resource Name](URL)`
-4. Create a pull request with a brief description of the resource you're adding.
